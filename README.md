@@ -16,7 +16,7 @@ The PYGlobal Tool is a Python program that allows you to send messages to a Disc
 
 1. Clone or download this repository to your local machine.
 
-2. Install the required packages by running the following command in your terminal:
+2. Install the required packages by running the following command in your terminal: **pip install -r requirements.txt**
 
 
 ## Usage
